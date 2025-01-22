@@ -2,7 +2,7 @@ import pandas as pd
 import traductor as td
 from tqdm import tqdm  # Importar tqdm para la barra de progreso
 
-# Prueba del Felipe
+# Prueba 
 
 def procesar_csv(ruta_csv):
     try:
